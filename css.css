@@ -1,0 +1,33 @@
+.navbar{
+    list-style-type: none;
+    overflow: hidden;
+    color: aliceblue;
+}
+.logo{
+    float: left;
+    padding: 4px;
+    font-size: large;
+    font-weight: 1000;
+}
+ul{
+    float: right;
+}
+li{
+    padding: 4px;
+    display: inline;
+}
+header{
+    color: aliceblue;
+    padding: 0rem 20rem 5rem 20rem;
+    background-color: #1f2937;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    font-size: 5rem;
+}
+img{
+    width: 100%;
+}
