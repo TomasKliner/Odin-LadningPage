@@ -31,3 +31,64 @@ h1{
 img{
     width: 100%;
 }
+
+.imageb{
+    width: 200px;
+    height: 200px;
+    border: 4px solid #3882f6;
+    border-radius: 20px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.w{
+    width: 200px;
+    margin: 30px;
+}
+.imagesSec{
+    text-align: center;
+}
+h2{
+    font-size: 4rem;
+}
+.quote{
+    background-color: #E5E7EB;
+    padding: 5rem 20rem;
+}
+q{
+    font-size: 3rem;
+}
+.author{
+    font-size: 2rem;
+    font-weight: 800;
+    text-align: right;
+}
+.action{
+    color: white;
+}
+h3{
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+.signuptext{
+    font-size: 1rem;
+}
+.insideAction{
+    margin: 5rem 20rem;
+    border-radius: 0.5rem;
+    background-color: #3882f6;
+    display: flex;
+
+}
+bottomB{
+    color: #E5E7EB;
+    background-color: #3882f6;
+}
+footer{
+    color: white;
+    background-color: #1f2937;
+    margin:0;
+    text-align: center;
+    padding: 30px;
+}
